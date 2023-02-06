@@ -1,0 +1,11 @@
+.container{
+    display: flex;
+    padding-bottom: 20px;
+}
+.link{
+    text-decoration: none;
+    color: #282c34;
+    font-size: 25px ;
+    font-family: "Comic Sans MS",sans-serif;
+    padding-left: 30px;
+}
